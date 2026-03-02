@@ -33,3 +33,14 @@ nav a:hover {
   color: #000;
   border-bottom: 1px solid #000;
 }
+
+.section-image {
+  margin: 40px 0;
+  text-align: center;
+}
+
+.section-image img {
+  width: 80%;
+  max-width: 800px;
+  border-radius: 8px;
+}
